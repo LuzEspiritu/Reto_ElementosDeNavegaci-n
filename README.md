@@ -13,8 +13,10 @@
 
     **Navegación Local*
     ![navegacion local](images/local.png).
+    
 
     **Filtro*
+    
       ![filtro](images/filtro_1.png).
       ![filtro](images/filtro_2.png).
 
