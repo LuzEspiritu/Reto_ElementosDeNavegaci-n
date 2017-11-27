@@ -14,9 +14,9 @@
     **Navegación Local*
     ![navegacion local](local.png).
 
-    **Filto*
-     ![filtro](images/filtro_1.png).
-    ![filtro](images/filtro_2.png).
+    **Filtro*
+      ![filtro](images/filtro_1.png).
+      ![filtro](images/filtro_2.png).
 
 2. **Github**
 
