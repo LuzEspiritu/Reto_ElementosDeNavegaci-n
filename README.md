@@ -1,4 +1,4 @@
-## Identifica los elementos de navegación en los siguientes sites
+_## Identifica los elementos de navegación en los siguientes sites
 
  Breather
  Github
@@ -31,14 +31,14 @@
     ![Navegación Facetada](images/github_facetada.png).
 
      **En Línea*
-     ![Navegación en línea(images/github_facetada.png).
+     ![Navegación en línea](images/github_facetada.png).
 
 3. **Medium**
 
     **Navegación Local*
 
     ![navegacion local](images/medium_local.png).
-    ![navegacion local](images/medium_local2.png).
+    ![navegacion local](images/medium_local_2.png).
 
      **Filto*
      ![filtro](images/medium_filtro.png).
