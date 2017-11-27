@@ -31,7 +31,8 @@
     ![navegacion local](images/github_local.png).
     
 
-    **Filto*
+    **Filtro*
+    
     ![filtro](images/github_filtro.png).
       
       
