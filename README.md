@@ -12,7 +12,7 @@
     ![navegacion global](images/global_2.png).
 
     **Navegación Local*
-    ![navegacion local](local.png).
+    ![navegacion local](images/local.png).
 
     **Filtro*
       ![filtro](images/filtro_1.png).
