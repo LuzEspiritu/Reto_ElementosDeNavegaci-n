@@ -19,19 +19,26 @@
     ![filtro](images/filtro_2.png).
 
 2. **Github**
+
+
     **Navegación Global*
     ![navegacion global](images/github_global.png).
+    
+    
     **Navegación Local*
     ![navegacion local](images/github_local.png).
+    
 
     **Filto*
     ![filtro](images/github_filtro.png).
-
+      
+      
     **Facetada*
     ![Navegación Facetada](images/github_facetada.png).
-
+      
+      
      **En Línea*
-     ![Navegación en línea](images/github_facetada.png).
+     ![Navegación en línea](images/github_enlinea.png).
 
 3. **Medium**
 
